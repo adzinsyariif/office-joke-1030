@@ -28,7 +28,12 @@ import os
 # phrase was wasted setup; removing it tightens the line for one breath
 # (criterion 4) without losing the true observation (criterion 2).
 
-LINE = "The fastest way to get an answer is to email the wrong person — suddenly three departments care."
+# Revision 2: sharpen the turn — "answer" becomes "reply" (the exact office
+# frustration), and the vague "three departments care" becomes the concrete,
+# surprising last beat "everyone reply-alls at once", so the laugh lands on
+# the final words (criteria 3 and 5) while staying one clean breath aloud.
+
+LINE = "The fastest way to get a reply is to email the wrong person — suddenly everyone reply-alls at once."
 
 
 def main():
