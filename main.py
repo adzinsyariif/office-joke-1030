@@ -23,8 +23,12 @@ import os
 #
 # Winner: Candidate C — highest total, strongest on the top-weighted criteria
 # (office subject, true observation, surprising turn).
+#
+# Revision 1: cut "at work" — email already places it in the office, so the
+# phrase was wasted setup; removing it tightens the line for one breath
+# (criterion 4) without losing the true observation (criterion 2).
 
-LINE = "The fastest way to get an answer at work is to email the wrong person — suddenly three departments care."
+LINE = "The fastest way to get an answer is to email the wrong person — suddenly three departments care."
 
 
 def main():
